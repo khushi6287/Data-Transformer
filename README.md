@@ -1,4 +1,4 @@
-# Data Transformer - Advanced SQL Project
+(# Data Transformer - Advanced SQL Project
 
 ## 📖 Project Overview
 
@@ -118,54 +118,3 @@ The project uses three main tables:
    - Verify all three tables are populated with sample data
    - Run individual queries to test functionality
 
-## 📁 Project Structure
-
-```
-data-transformer/
-├── README.md
-├── data_transformer.sql
-└── LICENSE
-```
-
-## 🎯 Learning Outcomes
-
-By completing this project, you will gain expertise in:
-
-- Writing complex JOIN operations across multiple tables
-- Creating and utilizing subqueries for advanced data filtering
-- Manipulating dates and strings using SQL functions
-- Implementing window functions for analytical operations
-- Using CASE expressions for conditional logic in queries
-- Designing normalized database schemas
-- Writing production-ready SQL code with proper constraints
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
-
-**Your Name**
-
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-
-## 🙏 Acknowledgments
-
-- MySQL Documentation
-- SQL Best Practices Guide
-- Database Design Principles
-
----
-
-⭐ If you found this project helpful, please give it a star!
