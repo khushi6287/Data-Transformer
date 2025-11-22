@@ -1,4 +1,4 @@
-(# Data Transformer - Advanced SQL Project
+# Data Transformer - Advanced SQL Project
 
 ## 📖 Project Overview
 
